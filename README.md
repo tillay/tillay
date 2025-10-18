@@ -15,7 +15,7 @@ Systems I use on a daily basis
 
 [Girls und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer) and [Umamusume: Pretty Derby](https://en.wikipedia.org/wiki/Umamusume:_Pretty_Derby) are my favorite animes. 
 
-I make various things with code. As of now, that includes random [encryption schenanigans](https://tilley.lol/unicrypt), [basic data analysis](https://github.com/tillay/zsh-wrapped), [rusherhack plugins](https://github.com/tillay-rh-plugins) and some web design. 
+I make various things with code. As of now, that includes random [encryption schenanigans](https://tilley.lol/unicrypt), [basic data analysis](https://github.com/tillay/zsh-wrapped), [rusherhack plugins](https://github.com/tillay-rh-plugins), and some web design. 
 
 I speak English ([C2](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)) and German ([B2](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)).
 
