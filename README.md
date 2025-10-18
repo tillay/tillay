@@ -29,7 +29,7 @@ Top languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay&layout=compact&theme=transparent)
 
--# this doesn't include the java I write (that code is in a different organization)
+note: this doesn't include the java I write (that code is in a different organization)
 
 ## cat
 
