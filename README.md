@@ -17,19 +17,11 @@ Systems I use on a daily basis
 
 I make various things with code. As of now, that includes random [encryption schenanigans](https://tilley.lol/unicrypt), [basic data analysis](https://github.com/tillay/zsh-wrapped), [rusherhack plugins](https://github.com/tillay-rh-plugins), and some web design. 
 
-I speak English ([C2](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)) and German ([B2](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)).
+I speak English (C2) and German (B2).
 
 Contact me on discord: [tillay8](https://discord.com/users/1239747535120236616)
 
-Personal website: https://tilley.lol
-
-## Stats
-
-Top languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tillay&layout=compact&theme=transparent)
-
-note: this doesn't include the java I write (that code is in a different organization)
+Personal website: [https://tilley.lol](https://tilley.lol)
 
 ## cat
 
