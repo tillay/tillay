@@ -27,4 +27,4 @@ Personal website: [https://tilley.lol](https://tilley.lol)
 
 My cat figgie:
 
-<img src="https://github.com/user-attachments/assets/72715955-f7a5-43d8-8d81-d07cadfcc8df" alt="Figgie" href="https://tilley.lol/cats" width="400"/>
+<img src="https://tilley.lol/images/cats/figgier.png" alt="Figgie" href="https://tilley.lol/cats" width="400"/>
