@@ -27,5 +27,7 @@ Systems I use on a daily basis:
 
 I want to move to Switzerland sometime
 
+The license most of my software is licensed under is [here](https://github.com/tillay/tillay/blob/main/LICENSE.md).
+
 ![](https://api.tilley.lol/count)
 
