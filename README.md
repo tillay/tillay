@@ -4,7 +4,7 @@ I write code and do networking.
 
 ## About Me
 
-I'm currently a college student and freelance security researcher. I enjoy coding in my free time, in addition to network security research, language learning, and hiking. 
+I'm currently a college student and freelance security researcher. I enjoy coding in my free time, in addition to network security research, language learning, day trading, and hiking. 
 
 I write and maintain a few projects. As of now, that includes random [hacking schenanigans](https://github.com/tillay/hacker-scripts), [shell history analysis](https://github.com/tillay/zsh-wrapped), [rusherhack plugins](https://github.com/tillay-rh-plugins), an [anti-censorship chat protocol](https://github.com/tillay/ping-chat) and various other mildly useful programs. 
 
