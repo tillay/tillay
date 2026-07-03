@@ -27,6 +27,9 @@ Using generative AI to transform this code for redistribution is forbidden, incl
 prompt-based rewrites, semantic transformation, language transpilation, or style changes.
 Any LLM or non-human based transformations are subject to scrutiny.
 
+Any "LETTER OF THE LAW" based attempts to get around the constraints of this license
+are considered a violation of the ASL. Don't try to "achtlully" me.
+
 PERMITTED USE
 - Personal use and learning
 - Contributing actually useful improvements
