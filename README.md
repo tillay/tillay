@@ -12,7 +12,7 @@ My preferred programming language is Python for simple scripting, and Go for mor
 
 I hate Javascript and Rust with a passion.
 
-[Girls und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer) and [Umamusume: Pretty Derby](https://en.wikipedia.org/wiki/Umamusume:_Pretty_Derby) are my favorite animes. 
+[Girls und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer) and [The Saga of Tanya the Evil](https://en.wikipedia.org/wiki/The_Saga_of_Tanya_the_Evil) are my favorite animes. 
 
 I speak English (C2) and German (B2).
 
@@ -29,5 +29,5 @@ I want to move to Switzerland sometime
 
 The license most of my software is licensed under is [here](https://github.com/tillay/tillay/blob/main/LICENSE.md).
 
-![](https://api.tilley.lol/count)
+![](https://api.tilley.lol/log)
 
